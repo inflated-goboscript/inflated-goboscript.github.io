@@ -130,3 +130,4 @@ nav:
       - Usage:
         - Getting Started: inflator/usage/getting started.md
         - Installing Packages: inflator/usage/installing packages.md
+      - Other commands: inflator/other commands.md
