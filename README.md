@@ -1,2 +1,3 @@
 # inflated-goboscript.github.io
-gh pages
+gh pages using material for mkdocs
+
