@@ -4,3 +4,5 @@
 > and is the backbone of efficient goboscript package management.
 
 This section documents the usage of inflator.
+
+Inflator is written in Python, just like backpack.
