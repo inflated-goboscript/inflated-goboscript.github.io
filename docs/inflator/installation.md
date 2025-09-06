@@ -4,6 +4,15 @@ You can install the inflator using pipx.
 
 `pipx install inflator`
 
+??? Info
+
+    If you want to install the bleeding-edge version (straight from source):
+    1. `git clone https://github.com/inflated-goboscript/inflator`
+    2. `cd inflator`
+    3. `pip install -e .`
+
+    If you want to update it, just run `git pull`
+
 You can now access the `inflate` command.
 Verify that `inflate -h` shows a help menu like this:
 
