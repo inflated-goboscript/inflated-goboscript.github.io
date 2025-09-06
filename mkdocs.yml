@@ -125,3 +125,6 @@ nav:
   - Inflator:
       - Inflator: inflator/index.md
       - Installation: inflator/installation.md
+      - Behaviour: inflator/behaviour.md
+      - Getting Started:
+        - Getting Started: inflator/usage/test.md
