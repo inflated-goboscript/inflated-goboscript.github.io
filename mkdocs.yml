@@ -49,6 +49,7 @@ theme:
     - content.tabs.link
     - content.tooltips
     - navigation.footer
+    - content.code.annotate
 
 plugins:
   - social
@@ -128,3 +129,4 @@ nav:
       - Behaviour: inflator/behaviour.md
       - Usage:
         - Getting Started: inflator/usage/getting started.md
+        - Installing Packages: inflator/usage/installing packages.md
