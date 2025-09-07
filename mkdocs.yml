@@ -4,8 +4,8 @@ site_name: inflated-goboscript
 site_url: https://inflated-goboscript.github.io/
 site_description: Documentation for the inflation of gobos.
 
-repo_url: https://github.com/inflated-goboscript/inflator
-repo_name: inflated-goboscript/inflator
+repo_url: https://github.com/inflated-goboscript/inflated-goboscript.github.io
+repo_name: inflated-goboscript/inflated-goboscript.github.io
 
 theme:
   name: material
@@ -135,4 +135,3 @@ nav:
       - TW-CLI: tw-cli/index.md
       - Installation: tw-cli/installation.md
       - Usage: tw-cli/usage.md
-
