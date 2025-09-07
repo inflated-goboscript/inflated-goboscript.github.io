@@ -131,3 +131,8 @@ nav:
         - Getting Started: inflator/usage/getting started.md
         - Installing Packages: inflator/usage/installing packages.md
       - Other commands: inflator/other commands.md
+  - TW-CLI:
+      - TW-CLI: tw-cli/index.md
+      - Installation: tw-cli/installation.md
+      - Usage: tw-cli/usage.md
+
