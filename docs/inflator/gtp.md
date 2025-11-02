@@ -26,11 +26,4 @@ e.g. cmath -> [https://github.com/inflated-goboscript/cmath](https://github.com/
 ## Registering a package on the package index
 
 Register a package using [this issue template](https://github.com/inflated-goboscript/gtp/issues/new?template=register-package.yml).
-A bot will automatically close the issue and add it to the registry, if valid, within a minute.
-
-The bot's source code is available [here](https://github.com/inflated-goboscript/bfg). It's called the bfg.
-
-!!! Info
-
-    The bfg is currently hosted using [pythonanywhere](https://www.pythonanywhere.com/), which seems to be somewhat
-    unstable. If the bot does not respond to your issue, ping me (@faretek1) on discord or GitHub, and I'll sort it out.
+GitHub actions will automatically close the issue and add it to the registry, if valid.
