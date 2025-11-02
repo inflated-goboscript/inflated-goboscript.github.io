@@ -40,7 +40,7 @@ We can now `%include` cmath.
 
 [//]: # (One day we might add a goboscript syntax highlighter, but not right now)
 ```gs
-%include inflator/math  # (1)
+%include inflator/math
 %include inflator/cmath
 
 
