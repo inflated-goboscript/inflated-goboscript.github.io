@@ -51,8 +51,6 @@ onflag {
 }
 ```
 
-1. Due to a [goboscript bug](https://github.com/aspizu/goboscript/issues/197), nested `%includes` is unstable. For now, you need to include every dependency separately.
-
 !!! Note
 
     If you ever want to update a package you are using, you can use `inflate install -U <pkg>` to upgrade it.
